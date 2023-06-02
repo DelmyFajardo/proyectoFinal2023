@@ -1,0 +1,46 @@
+html{
+    background-color:#9a27f7 ;
+    border-style: double;
+   border-width: 20px;
+    width: 1500px;
+    height: 100px;
+    border-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'popins, sans-serif';
+}
+
+
+.menuprincipal{
+    color: azure;
+    background-color: rgb(2, 212, 239);
+    text-align: center;
+    border-style: dashed;
+    border-color: #cf0060;
+    border-width: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    
+
+}
+
+
+.menu1{
+    color:#cf0060;
+    border-color: black 50px;
+    font-size: 50px;
+    background-position: center;
+    text-align: center;
+   
+
+
+}
+

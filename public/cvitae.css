@@ -1,0 +1,70 @@
+
+.flex-container-row-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align:center  ; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+}
+
+
+#foto { 
+    width: 50px;
+
+}
+.cero{
+    text-align: center;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.uno{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+.dos{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+
+.tres{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+.cuadro{
+    border-radius: 20px;
+    background-color:azure ;
+}
+.nombre{
+    border-radius: 20px;
+}
+.imagen{
+    border-radius: 20px;
+}
+.vitae{
+    background-color: #5f13e3;
+    border-style: inherit;
+    width: 60px;
+    height: 40px;
+    display: block;
+    font-size: 20px;
+}
+.imagen{
+    width: 200px;
+    border-radius: 20px;
+}
+.imagen1{
+    width: 100px;
+}
